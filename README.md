@@ -1,2 +1,0 @@
-# UdaCity
-Course Submissions

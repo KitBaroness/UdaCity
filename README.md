@@ -42,7 +42,7 @@ This repository contains completed coursework and projects from my Udacity learn
 
 
 ## Usage
-This repository is for reference purposes.
+This repository is for reference purposes. I know that this is not a practical method of github repository use.
 
 ## Contact
 For any questions about the repository or courses, feel free to reach out:
